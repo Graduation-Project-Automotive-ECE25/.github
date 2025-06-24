@@ -58,7 +58,7 @@ The solution is divided into two main subsystems:
 
 ## 🛠️ Key Technologies
 
-- STM32F103C8T6 microcontroller
+- STM32F103C6T6 microcontroller
 - Embedded C, FreeRTOS-like RTOS
 - Raspberry Pi 4 with Yocto Linux
 - Qt 6 for GUI (QML, Serial, WebEngine)
@@ -84,7 +84,7 @@ You can find the complete project documentation in the [`ADAS Graduation Book`](
 ## 👨‍💻 Contributors
 
 Team Members:
-- Assem Ayman
+- Assem Ayman (Team Leader)
 - Mahmoud Walid
 - Mahmoud Zayed
 - Nada Metwaly
