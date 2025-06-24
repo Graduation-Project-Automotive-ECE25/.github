@@ -52,7 +52,7 @@ The solution is divided into two main subsystems:
 | `STM32`                  | Custom RTOS and embedded control logic       | [🔗 STM32 Repo](https://github.com/Graduation-Project-Automotive-ECE25/STM32) |
 | `GUI`                    | Qt-based dashboard application               | [🔗 GUI Repo](https://github.com/Graduation-Project-Automotive-ECE25/GUI) |
 | `ComputerVision`         | Lane & sign detection models/scripts         | *(Optional: add repo link)* |
-| `Yocto-Image`            | Custom embedded Linux image for RPi          | [🔗 Yocto](https://github.com/Graduation-Project-Automotive-ECE25/Yocto) |
+| `Yocto-Image`            | Custom embedded Linux image for RPi          | [🔗 Yocto Repo](https://github.com/Graduation-Project-Automotive-ECE25/Yocto) |
 
 ---
 
