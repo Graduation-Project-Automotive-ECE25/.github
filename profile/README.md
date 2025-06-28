@@ -77,7 +77,7 @@ The solution is divided into two main subsystems:
 
 ## 📚 Documentation
 
-You can find the complete project documentation in the [`ADAS Graduation Book`](https://github.com/Graduation-Project-Automotive-ECE25/ADAS-Book.pdf)
+You can find the complete project documentation in the [`ADAS Graduation Book`](https://drive.google.com/file/d/1XIpy0AmPzTSJXAlBNidWxOked-inZP8N/view?usp=sharing)
 
 ---
 
