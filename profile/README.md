@@ -82,7 +82,7 @@ The solution is divided into two main subsystems:
 | **GPS Tracking** | [![GPS](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/gps.jpg)](https://drive.google.com/file/d/12shbaEtLaj_cSXmkcuJu2r_VFeCfj6Qw/view?usp=drive_link) | Displays vehicle location on the map |
 | **Lane Departure Warning** | [![Lane](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/ldw.PNG)](https://drive.google.com/file/d/1owv3XHbs7af50gqBAqtRIyxD-w0d9QPb/view?usp=drive_link) | Alerts when lane deviation is detected |
 | **Traffic Sign Detection** | [![Signs](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/trafficsign.jpg)](https://drive.google.com/file/d/1Yd9gq3B7OUecWITmBRs0KoUAc6PAh_pR/view?usp=drive_link) | Recognizes and classifies traffic signs |
-| **Overspeed Warning** | [![Speed](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/overspeedwarning.jpg)](https://drive.google.com/drive/u/0/folders/1_4MGATskCDrbtFpk8psbzuKq5pM6vXPy) | Issues GUI warning on speed limit breach |
+| **Overspeed Warning** | [![Speed](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/overspeedwarning.jpg)](https://drive.google.com/file/d/1XAJAchLgKLop7DXfeqiZ3Dc1WxTbc6Zv/view?usp=drive_link) | Issues GUI warning on speed limit breach |
 | **Yocto Boot** | [![Yocto](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/Yocto.PNG)](https://drive.google.com/file/d/1vgwzWMAhzWZiZ5IgOCZMtQ9hiuUGr53K/view?usp=drive_link) | Custom embedded Linux startup and GUI |
 | **Firmware OTA** | [![FOTA](videos/thumbnails/fota.png)](videos/fota.mp4) | Demonstrates remote firmware update |
 
