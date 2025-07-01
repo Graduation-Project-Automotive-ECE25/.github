@@ -77,13 +77,13 @@ The solution is divided into two main subsystems:
 |--------|---------|-------------|
 | **Intro Video** | [![Intro](videos/thumbnails/intro.png)](videos/intro.mp4) | Full system overview |
 | **Adaptive Cruise Control** | [![ACC](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/acc.jpg)](https://drive.google.com/file/d/14yefTBQPuCcz5HylxiJSGW9O1E7vySfg/view?usp=drive_link) | Adjusts speed based on front vehicle |
-| **Automatic Emergency Braking** | [![AEB](videos/thumbnails/aeb.png)](videos/aeb.mp4) | Stops automatically if an object is detected |
-| **Blind Spot Detection** | [![Blind Spot](videos/thumbnails/blindspot.png)](videos/blindspot.mp4) | Warns driver of vehicles in blind spots |
-| **GPS Tracking** | [![GPS](videos/thumbnails/gps.png)](videos/gps.mp4) | Displays vehicle location on the map |
-| **Lane Departure Warning** | [![Lane](videos/thumbnails/lane.png)](videos/lane.mp4) | Alerts when lane deviation is detected |
-| **Traffic Sign Detection** | [![Signs](videos/thumbnails/signs.png)](videos/signs.mp4) | Recognizes and classifies traffic signs |
-| **Overspeed Warning** | [![Speed](videos/thumbnails/overspeed.png)](videos/overspeed.mp4) | Issues GUI warning on speed limit breach |
-| **Yocto Boot** | [![Yocto](videos/thumbnails/yocto.png)](videos/yocto.mp4) | Custom embedded Linux startup and GUI |
+| **Automatic Emergency Braking** | [![AEB](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/AEB.jpg)](https://drive.google.com/file/d/1pnK-gjPmTqt3SGgVHBJRdRZIIFjVP4W2/view?usp=drive_link) | Stops automatically if an object is detected |
+| **Blind Spot Detection** | [![Blind Spot](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/Blind_Spot_Detection.jpg)](https://drive.google.com/file/d/1G2af9MrMnImd0i8V24ojZqr35a8wmc5K/view?usp=drive_link) | Warns driver of vehicles in blind spots |
+| **GPS Tracking** | [![GPS](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/gps.jpg)](https://drive.google.com/file/d/12shbaEtLaj_cSXmkcuJu2r_VFeCfj6Qw/view?usp=drive_link) | Displays vehicle location on the map |
+| **Lane Departure Warning** | [![Lane](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/ldw.PNG)](https://drive.google.com/file/d/1owv3XHbs7af50gqBAqtRIyxD-w0d9QPb/view?usp=drive_link) | Alerts when lane deviation is detected |
+| **Traffic Sign Detection** | [![Signs](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/trafficsign.jpg)](https://drive.google.com/file/d/1Yd9gq3B7OUecWITmBRs0KoUAc6PAh_pR/view?usp=drive_link) | Recognizes and classifies traffic signs |
+| **Overspeed Warning** | [![Speed](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/overspeedwarning.jpg)](https://drive.google.com/drive/u/0/folders/1_4MGATskCDrbtFpk8psbzuKq5pM6vXPy) | Issues GUI warning on speed limit breach |
+| **Yocto Boot** | [![Yocto](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/Yocto.PNG)]() | Custom embedded Linux startup and GUI |
 | **Firmware OTA** | [![FOTA](videos/thumbnails/fota.png)](videos/fota.mp4) | Demonstrates remote firmware update |
 
 
