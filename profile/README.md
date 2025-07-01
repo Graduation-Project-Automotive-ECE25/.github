@@ -85,7 +85,7 @@ The solution is divided into two main subsystems:
 | **Overspeed Warning** | [![Speed](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/overspeedwarning.jpg)](https://drive.google.com/file/d/1XAJAchLgKLop7DXfeqiZ3Dc1WxTbc6Zv/view?usp=drive_link) | Issues GUI warning on speed limit breach |
 | **Yocto Boot** | [![Yocto](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/Yocto.PNG)](https://drive.google.com/file/d/1vgwzWMAhzWZiZ5IgOCZMtQ9hiuUGr53K/view?usp=drive_link) | Custom embedded Linux startup and GUI |
 | **Firmware OTA** | [![FOTA](videos/thumbnails/fota.png)](videos/fota.mp4) | Demonstrates remote firmware update |
-
+| **GUI Dashboard** | [![GUI](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/thumbnails/gui.png)](https://drive.google.com/file/d/1_vEEjuu0ofGYZjjyFiCTsqKKsRomHv8V/view?usp=drive_link) | Qt 6 GUI showing speed, GPS map, warnings |
 
 ---
 
