@@ -76,7 +76,7 @@ The solution is divided into two main subsystems:
 | Feature | Preview | Description |
 |--------|---------|-------------|
 | **Intro Video** | [![Intro](videos/thumbnails/intro.png)](videos/intro.mp4) | Full system overview |
-| **Adaptive Cruise Control** | [![ACC](videos/thumbnails/Acc.png)](videos/acc.mp4) | Adjusts speed based on front vehicle |
+| **Adaptive Cruise Control** | [![ACC](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/videos/thumbnails/Acc.jpg)](https://github.com/Graduation-Project-Automotive-ECE25/.github/blob/main/videos/ACC.mp4) | Adjusts speed based on front vehicle |
 | **Automatic Emergency Braking** | [![AEB](videos/thumbnails/aeb.png)](videos/aeb.mp4) | Stops automatically if an object is detected |
 | **Blind Spot Detection** | [![Blind Spot](videos/thumbnails/blindspot.png)](videos/blindspot.mp4) | Warns driver of vehicles in blind spots |
 | **GPS Tracking** | [![GPS](videos/thumbnails/gps.png)](videos/gps.mp4) | Displays vehicle location on the map |
