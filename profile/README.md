@@ -69,9 +69,23 @@ The solution is divided into two main subsystems:
 
 ---
 
-## 📸 Screenshots
+## 🎥 Demonstrations
 
-> _To be added_: GUI interface, lane detection demo, traffic sign inference, RTOS architecture diagram.
+> Click the images below to watch full demonstrations.
+
+| Feature | Preview | Description |
+|--------|---------|-------------|
+| **Intro Video** | [![Intro](videos/thumbnails/intro.png)](videos/intro.mp4) | Full system overview |
+| **Adaptive Cruise Control** | [![ACC](videos/thumbnails/Acc.png)](videos/acc.mp4) | Adjusts speed based on front vehicle |
+| **Automatic Emergency Braking** | [![AEB](videos/thumbnails/aeb.png)](videos/aeb.mp4) | Stops automatically if an object is detected |
+| **Blind Spot Detection** | [![Blind Spot](videos/thumbnails/blindspot.png)](videos/blindspot.mp4) | Warns driver of vehicles in blind spots |
+| **GPS Tracking** | [![GPS](videos/thumbnails/gps.png)](videos/gps.mp4) | Displays vehicle location on the map |
+| **Lane Departure Warning** | [![Lane](videos/thumbnails/lane.png)](videos/lane.mp4) | Alerts when lane deviation is detected |
+| **Traffic Sign Detection** | [![Signs](videos/thumbnails/signs.png)](videos/signs.mp4) | Recognizes and classifies traffic signs |
+| **Overspeed Warning** | [![Speed](videos/thumbnails/overspeed.png)](videos/overspeed.mp4) | Issues GUI warning on speed limit breach |
+| **Yocto Boot** | [![Yocto](videos/thumbnails/yocto.png)](videos/yocto.mp4) | Custom embedded Linux startup and GUI |
+| **Firmware OTA** | [![FOTA](videos/thumbnails/fota.png)](videos/fota.mp4) | Demonstrates remote firmware update |
+
 
 ---
 
